@@ -8,7 +8,7 @@ The goal of this project is to recommend movies based on either a selected movie
 
 ## Snapshots
 <p align="center">
-  <img src="*https://github.com/Mohab-DataAnalyst/movie-recommender-system/blob/main/recommender_streamlit.PNG** width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/movie-recommender-system/blob/main/recommender_streamlit.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/movie-recommender-system/blob/main/recommender_api.PNG" width="800" height="500"/>
 </p>
 
