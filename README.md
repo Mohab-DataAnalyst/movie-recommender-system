@@ -125,11 +125,3 @@ Example response:
 ## What I Learned
 
 This project helped me practice recommender system concepts, sparse matrices, cosine similarity, nearest neighbors, matrix factorization, and turning notebook logic into a simple deployable demo.
-
-## Future Improvements
-
-- Add evaluation metrics for recommender quality.
-- Add poster images using an external movie API.
-- Add user profile exploration.
-- Add Docker support.
-- Deploy the API or Streamlit app to a cloud platform.
