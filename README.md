@@ -6,6 +6,12 @@ This project builds a movie recommendation system using ratings and genre data. 
 
 The goal of this project is to recommend movies based on either a selected movie title or an existing user ID. The notebook explores the MovieLens-style dataset and experiments with multiple recommendation strategies. The deployment files package the recommender into a simple API and an interactive web app.
 
+## Snapshots
+<p align="center">
+  <img src="*https://github.com/Mohab-DataAnalyst/movie-recommender-system/blob/main/recommender_streamlit.PNG** width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/movie-recommender-system/blob/main/recommender_api.PNG" width="800" height="500"/>
+</p>
+
 ## Dataset
 
 The project uses these files:
